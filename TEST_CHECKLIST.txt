@@ -1,0 +1,29 @@
+BANKING SYSTEM - SCREENSHOT / TEST CHECKLIST
+=============================================
+
+Take screenshots of these outputs for your project report:
+
+[ ] 1. Main Menu
+[ ] 2. Create Account - successful account creation
+[ ] 3. Account Number displayed
+[ ] 4. Login - successful login
+[ ] 5. Account Menu
+[ ] 6. Check Balance
+[ ] 7. Deposit successful
+[ ] 8. Withdraw successful
+[ ] 9. Insufficient balance message
+[ ] 10. Transfer successful
+[ ] 11. Transaction History
+[ ] 12. Change PIN successful
+[ ] 13. Logout
+[ ] 14. Main Menu after logout
+
+For a clean report, keep the screenshots readable and crop out
+personal phone numbers/PINs if you use real information.
+Use dummy data such as:
+Name: Anjali
+Phone: 9876543210
+PIN: 1234
+Deposit: 5000
+Withdraw: 1000
+Transfer: 500
